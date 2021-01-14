@@ -80,7 +80,6 @@ nav a:active {
 }
 
 .dropdown{
-  display: block;
   position: absolute;
   top: 45px;
   left: 0;
