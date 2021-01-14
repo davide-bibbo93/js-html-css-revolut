@@ -92,6 +92,7 @@ nav a:active {
 }
 
 .dropdown li{
+  display: block;
   padding: 10px 16px;
 }
 
